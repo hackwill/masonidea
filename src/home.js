@@ -23,7 +23,7 @@ export class Home extends React.Component {
   render() {
     return (
       <div id="bg">
-        <div align="center">
+        
           <br />
           <br />
           <br />
@@ -137,7 +137,6 @@ export class Home extends React.Component {
               </div>
             </div>
           </div>
-        </div>
       </div>
     );
   }
