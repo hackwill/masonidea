@@ -30,13 +30,13 @@ export class Home extends React.Component {
           <br />
           <br />
 
-          <div class="containor">
-            <div class="frist">
+          <div classname="containor">
+            <div classname="frist">
               <a href="https://bigideahunt.netlify.com/" target="_blank">
                 <img src={logo} width="300" height="auto" />
               </a>
             </div>
-            <div class="second">
+            <div classname="second">
               <a
                 href="https://helloignite.io/static/app/index.html#/event/masonCounty2018/static/Overview"
                 target="_blank"
@@ -51,7 +51,7 @@ export class Home extends React.Component {
             <br />
             <br />
 
-            <div class="containor">
+            <div classname="containor">
               <div id="FT">
                 <h3>
                   Idea Grab: <br />Share Extra Ideas or Look for Inspiration
@@ -85,7 +85,7 @@ export class Home extends React.Component {
           {/* start of gen text */}
 
           <div id="how">
-            <div class="f">
+            <div classname="f">
               <br />
               <h1> How It Works? </h1>
               <p>
@@ -96,7 +96,7 @@ export class Home extends React.Component {
               <br />
             </div>
 
-            <div class="s">
+            <div classname="s">
               <h1> What Kind of Ideas Are Acceptable? </h1>
               <p>
                 Really just about anything you can think of could be submitted!{" "}
@@ -118,7 +118,7 @@ export class Home extends React.Component {
               <br />
             </div>
 
-            <div class="f">
+            <div classname="f">
               <br />
               <h1> What Is the Process? </h1>
 
